@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="fourmiliere"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/maxime/GitHub/fourmiliere/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/maxime/GitHub/fourmiliere/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/maxime/GitHub/fourmiliere/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fourmiliere">
+				<Option output="/Users/maxime/GitHub/fourmiliere/cmake-build-debug/fourmiliere" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/maxime/GitHub/fourmiliere/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 fourmiliere"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fourmiliere/fast">
+				<Option output="/Users/maxime/GitHub/fourmiliere/cmake-build-debug/fourmiliere" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/maxime/GitHub/fourmiliere/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 fourmiliere/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maxime/GitHub/fourmiliere/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/main.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AbstractAnt.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AbstractAnt.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AntFactory.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AntFactory.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AntHill.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AntHill.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AntMove.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AntMove.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AntQueen.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AntQueen.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AntWarrior.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AntWarrior.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AntWorker.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Ant/AntWorker.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Game/GameEngine.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Game/GameEngine.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Item/FoodItem.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Item/FoodItem.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Item/Item.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Item/Item.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Item/WaterItem.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Item/WaterItem.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Map/Map.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Map/Map.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Map/Tile.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Map/Tile.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Window/ChoiceWindow.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Window/ChoiceWindow.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Window/SimulationWindow.cpp">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/src/Window/SimulationWindow.h">
+			<Option target="fourmiliere"/>
+		</Unit>
+		<Unit filename="/Users/maxime/GitHub/fourmiliere/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
